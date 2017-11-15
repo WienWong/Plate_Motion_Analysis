@@ -1,0 +1,12 @@
+
+
+How to draw good looking maps in R
+https://uchicagoconsulting.wordpress.com/tag/r-ggplot2-maps-visualization/
+
+13.17 Creating a Map
+https://books.google.se/books?id=fxL4tu5bzAAC&pg=PA312&lpg=PA312&dq=ggplot(world,+aes(x%3Dlong,+y%3Dlat,+group%3Dgroup))&source=bl&ots=e552_KkiBa&sig=rFxw4nuafTwxdYNdNtzHa_io4zo&hl=en&sa=X&ved=0ahUKEwj8h4HJldfJAhVifHIKHYQfAS4Q6AEIVDAJ#v=onepage&q=ggplot(world%2C%20aes(x%3Dlong%2C%20y%3Dlat%2C%20group%3Dgroup))&f=false
+
+
+
+
+
